@@ -1,0 +1,1 @@
+*This is the Ultimate Idea Generator for SoftUni Data Science Class 2023*
