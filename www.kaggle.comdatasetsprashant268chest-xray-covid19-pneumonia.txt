@@ -1,0 +1,3 @@
+www.kaggle.comdatasetsprashant268chest-xray-covid19-pneumonia
+#Kaggle API
+kaggle datasets download -d prashant268/chest-xray-covid19-pneumonia
