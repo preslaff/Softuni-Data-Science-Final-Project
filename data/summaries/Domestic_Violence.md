@@ -26,7 +26,12 @@ Collecting or downloading ready datasets for domestic violence can be challengin
 
 10. Collaboration and Expertise:** Collaborate with domestic violence support organizations and experts in the field to ensure that your data collection and analysis approach is ethical, respectful, and aligned with the needs of the affected community.
 
-Remember that domestic violence is a sensitive and complex issue, and working with such data requires great care, empathy, and ethical considerations. Always prioritize the safety and privacy of the individuals involved and aim to use the data to contribute positively to addressing domestic violence and supporting victims.
+Studies in the field:
+1. [https://www.cdc.gov/violenceprevention/intimatepartnerviolence/riskprotectivefactors.html](https://www.cdc.gov/violenceprevention/intimatepartnerviolence/riskprotectivefactors.html)
+2. [https://washingtoncollegereview.files.wordpress.com/2021/10/predicting-domestic-violence-risk-factors-and-clinical-assessments.pdf](https://washingtoncollegereview.files.wordpress.com/2021/10/predicting-domestic-violence-risk-factors-and-clinical-assessments.pdf)
+3. [https://link.springer.com/article/10.1007/s10896-023-00573-z#Sec141](https://link.springer.com/article/10.1007/s10896-023-00573-z#Sec141)
+
+*Remember that domestic violence is a sensitive and complex issue, and working with such data requires great care, empathy, and ethical considerations. Always prioritize the safety and privacy of the individuals involved and aim to use the data to contribute positively to addressing domestic violence and supporting victims.*
 
 **Data Preprocessing:** Clean and preprocess the data to ensure data integrity and consistency. Handle missing values, correct errors, and convert data to appropriate formats for analysis.
 
