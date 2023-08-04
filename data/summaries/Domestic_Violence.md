@@ -30,6 +30,7 @@ Studies in the field:
 1. [https://www.cdc.gov/violenceprevention/intimatepartnerviolence/riskprotectivefactors.html](https://www.cdc.gov/violenceprevention/intimatepartnerviolence/riskprotectivefactors.html)
 2. [https://washingtoncollegereview.files.wordpress.com/2021/10/predicting-domestic-violence-risk-factors-and-clinical-assessments.pdf](https://washingtoncollegereview.files.wordpress.com/2021/10/predicting-domestic-violence-risk-factors-and-clinical-assessments.pdf)
 3. [https://link.springer.com/article/10.1007/s10896-023-00573-z#Sec141](https://link.springer.com/article/10.1007/s10896-023-00573-z#Sec141)
+4. [https://www.siumed.edu/sites/default/files/u971/risk_factors_for_intimate_partner_violence_and_injury_among_urban_women.pdf](https://www.siumed.edu/sites/default/files/u971/risk_factors_for_intimate_partner_violence_and_injury_among_urban_women.pdf)
 
 *Remember that domestic violence is a sensitive and complex issue, and working with such data requires great care, empathy, and ethical considerations. Always prioritize the safety and privacy of the individuals involved and aim to use the data to contribute positively to addressing domestic violence and supporting victims.*
 

@@ -4,6 +4,8 @@
 
 **Data Collection:** Gather genomic data from reliable sources such as publicly available databases (e.g., dbGaP, 1000 Genomes Project) or collaborate with research institutions to access their datasets. Obtain information on genetic variants (SNPs, CNVs, etc.) and corresponding phenotypic data related to diseases.
 
+1. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC328443/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC328443/)
+
 **Data Preprocessing:** Clean and preprocess the genomic data to ensure data integrity and consistency. Handle missing values, correct errors, and perform necessary transformations to prepare the data for analysis.
 
 **Genome-Wide Association Study (GWAS):** Perform a Genome-Wide Association Study to identify genetic variants that are significantly associated with the presence or risk of specific diseases. Use statistical tests, such as chi-square or logistic regression, to evaluate the association between genetic markers and disease phenotypes.

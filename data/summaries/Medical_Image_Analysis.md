@@ -4,6 +4,10 @@
 
 **Dataset:** Gather a diverse and well-annotated medical image dataset from reliable sources or medical institutions. Ensure that the dataset covers multiple classes of diseases or abnormalities, and that it includes a sufficient number of images per class for robust model training.
 
+1. [https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5](https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
+2. [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+3. 
+
 **Data Preprocessing:** Preprocess the medical images to ensure consistency, quality, and uniformity. Perform data augmentation techniques to increase the size of the dataset and improve the model's generalization ability. Consider applying necessary image transformations like resizing, normalization, and cropping.
 
 **Model Selection:** Select an appropriate deep learning architecture for medical image analysis, such as Convolutional Neural Networks (CNNs). Choose pre-trained models like VGG, ResNet, or Inception, and fine-tune them on the medical image dataset to leverage their feature extraction capabilities.
