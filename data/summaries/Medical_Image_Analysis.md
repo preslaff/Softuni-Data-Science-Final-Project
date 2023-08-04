@@ -6,7 +6,8 @@
 
 1. [https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5](https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
 2. [https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-3. 
+3. [https://arxiv.org/abs/2307.16528](https://arxiv.org/abs/2307.16528)
+4. [https://www.kaggle.com/code/paultimothymooney/detect-retina-damage-from-oct-images](https://www.kaggle.com/code/paultimothymooney/detect-retina-damage-from-oct-images)
 
 **Data Preprocessing:** Preprocess the medical images to ensure consistency, quality, and uniformity. Perform data augmentation techniques to increase the size of the dataset and improve the model's generalization ability. Consider applying necessary image transformations like resizing, normalization, and cropping.
 
